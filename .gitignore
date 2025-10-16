@@ -1,0 +1,8 @@
+# бинарные файлы
+*.o
+*.out
+*.exe
+hello
+
+# VS Code папки
+.vscode/
